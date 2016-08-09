@@ -19,16 +19,29 @@
 	- Practicas de configuración
 	
 	
-D1 Modelado de Datos, analisis y migraciones
-
+D1 Modelado de Datos, analisis de alto nivel, DER
+	- Modelos de datos
+	- Metodologias de diseño y desarollo de bases de datos
+	- Diagrama Entidad Relación
+	
 D2 Diseño de Tablas
-
+	- Diseño e implementación 
+	- Modelo Relacional
+	- Transformación desde el DER
+	- Migracion desde fuentes de datos bajo otros metodos de modelado
+	
 D3 Normalizacion 1,2,y 3 BC
-
-D4 Indices 
+	- Dependencias funcionales
+	- FN 1,2 y 3
+	- FNBC
 		
-	
-	
+D4 SQL Basico
+	- Create/Alter/Drop Table
+	- Select
+	- Update
+	- Insert
+	- Delete
+		
 3) Storage Engines
 	-¿Qué son y para qué se utilizan?
 	-InnoDB
@@ -72,6 +85,6 @@ D4 Indices
 	-Lista de tareas de administacion y monitoreo
 	-Practica de Monitoreo y performance
 	
-Practica 1 o 2 
+Practicas 
 
 Examen Final (MP) 
