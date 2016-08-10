@@ -1,90 +1,94 @@
+
+
+Contenido del Programa
+
 1) Introduccción a los sistemas de bases de datos
-	-Introducción general del curso
-	-Repositorio de codigo para practicas
-	-Recursos - Stck overflow, Foro MySql 
-	-Tipos, usos, usuarios
-	-Diferencia entre instancias y bases de datos
-	-Instalacion MySql
-	-Herramientas básicas
-	-Verificacion de correcto funcionamiento
-	-Practica de instalacion
-	
+                -Introducción general del curso
+                -Repositorio de codigo para practicas
+                -Recursos - Stck overflow, Foro MySql 
+                -Tipos, usos, usuarios
+                -Diferencia entre instancias y bases de datos
+                -Instalacion MySql
+                -Herramientas básicas
+                -Verificacion de correcto funcionamiento
+                -Practica de instalacion
+                
 2) Opciones de configuracion
-	- Archivo de configuración 
-	- Manejo de scripts
-	- Modo de arranque
-	- Selecccion de puertos 
-	- Utilización de MySql en servidor compartido con otras aplicaciones
-	- Instalacion de multiples instancias
-	- Practicas de configuración
-	
-	
-D1 Modelado de Datos, analisis de alto nivel, DER
-	- Modelos de datos
-	- Metodologias de diseño y desarollo de bases de datos
-	- Diagrama Entidad Relación
-	
-D2 Diseño de Tablas
-	- Diseño e implementación 
-	- Modelo Relacional
-	- Transformación desde el DER
-	- Migracion desde fuentes de datos bajo otros metodos de modelado
-	
-D3 Normalizacion 1,2,y 3 BC
-	- Dependencias funcionales
-	- FN 1,2 y 3
-	- FNBC
-		
-D4 SQL Basico
-	- Create/Alter/Drop Table
-	- Select
-	- Update
-	- Insert
-	- Delete
-		
-3) Storage Engines
-	-¿Qué son y para qué se utilizan?
-	-InnoDB
-	-MyISAM
-	-Federation Storage Engine
-	-Archive Storage Engine
-	-CSV Storage Engine
-	-Memory Storage Engine
-	-Custom Storage Engine
-	-Practicas con Storage Engines
+                - Archivo de configuración 
+                - Manejo de scripts
+                - Modo de arranque
+                - Selecccion de puertos 
+                - Utilización de MySql en servidor compartido con otras aplicaciones
+                - Instalacion de multiples instancias
+                - Practicas de configuración
+                
+                
+3) Modelado de Datos, analisis de alto nivel, DER
+                - Modelos de datos
+                - Metodologias de diseño y desarollo de bases de datos
+                - Diagrama Entidad Relación
+                
+4) Diseño de Tablas
+                - Diseño e implementación 
+                - Modelo Relacional
+                - Transformación desde el DER
+                - Migracion desde fuentes de datos bajo otros metodos de modelado
+                
+5) Normalizacion 1,2,y 3 BC
+                - Dependencias funcionales
+                - FN 1,2 y 3
+                - FNBC
+                               
+6) SQL Basico
+                - Create/Alter/Drop Table
+                - Select
+                - Update
+                - Insert
+                - Delete
+                               
+7) Storage Engines
+                -¿Qué son y para qué se utilizan?
+                -InnoDB
+                -MyISAM
+                -Federation Storage Engine
+                -Archive Storage Engine
+                -CSV Storage Engine
+                -Memory Storage Engine
+                -Custom Storage Engine
+                -Practicas con Storage Engines
 
-4) Copia de Seguridad y Recuperacion
-	-Tipos de Copias de seguridad
-	-Consideraciones para realizar copias de seguridad
-	-Practica Copia de Seguridad
+8) Copia de Seguridad y Recuperacion
+                -Tipos de Copias de seguridad
+                -Consideraciones para realizar copias de seguridad
+                -Practica Copia de Seguridad
 
-5) Recuperacion de Copias de Seguridad
-	-Tipos de Recuperacion
-	-Conisderaciones para Recuperar Bases de Datos
-	-Practica de Recupeeracion
-	
-6) Importación y exportacion de datos externos
-	-Origenes de Datos
-	-Tipos de origines de datos
-	-Alternativas para mportar datos a MySql
-	-Alternativas para exportar datos de MySql
-	-Practicas de importacion y exportacion de datos
-	
-7) Estructura interna MySql  
-	-Arquitectura interna de MySql
-	-Diccionario de datos de MySql
-	-Sysschema
-	-Indicadores y métricas
-	-Practicas sobre diccionario de datos
+9) Recuperacion de Copias de Seguridad
+                -Tipos de Recuperacion
+                -Conisderaciones para Recuperar Bases de Datos
+                -Practica de Recupeeracion
+                
+10) Importación y exportacion de datos externos
+                -Origenes de Datos
+                -Tipos de origines de datos
+                -Alternativas para mportar datos a MySql
+                -Alternativas para exportar datos de MySql
+                -Practicas de importacion y exportacion de datos
+                
+11) Estructura interna MySql  
+                -Arquitectura interna de MySql
+                -Diccionario de datos de MySql
+                -Sysschema
+                -Indicadores y métricas
+                -Practicas sobre diccionario de datos
 
-8) Monitoreo y performance
-	-Herramientas de monitoreo
-	-Indicadores de performance
-	-Tests de Performance
-	-Verificaciones de funcionamiento normal
-	-Lista de tareas de administacion y monitoreo
-	-Practica de Monitoreo y performance
-	
-Practicas 
+12) Monitoreo y performance
+                -Herramientas de monitoreo
+                -Indicadores de performance
+                -Tests de Performance
+                -Verificaciones de funcionamiento normal
+                -Lista de tareas de administacion y monitoreo
+                -Practica de Monitoreo y performance
+                
+Teoría y Practica 
 
-Examen Final (MP) 
+Examen Final  
